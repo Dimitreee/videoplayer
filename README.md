@@ -1,10 +1,10 @@
-###### Developing :
+#### Developing :
 - `npm install` (make sure that u have installed webpack globally)
 - `npm start`
 
-The go to localHost:4200;
+Then go to localHost:4200;
 
-###### Prod build :
+#### Prod build :
 
 - npm run build
 
