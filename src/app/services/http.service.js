@@ -20,7 +20,6 @@ export class HttpService {
                 this.imageUrl = response.formats[0].options.previewImage;
                 this.dataUrl = response.formats[0].dataUrl;
                 resolve(this.dataUrl);
-                // this.getVideoXml(this.dataUrl);
             };
             xhr.send();
         });
