@@ -1,0 +1,22 @@
+body {
+    position: relative;
+}
+.container {
+    width: 30%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+video{
+    width: 100%;
+    height: auto;
+    z-index: 1;
+    filter:invert(1);
+    -webkit-filter:invert(1);
+}
+img{
+    width: 100%;
+    height: auto;
+    z-index: 2;
+    position: absolute;
+}

@@ -1,1 +1,4 @@
-console.log(1243)
+require("./index.css");
+import {MainApp} from './app/main.js';
+
+new MainApp();
