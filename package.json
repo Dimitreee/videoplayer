@@ -1,0 +1,19 @@
+{
+  "name": "videoexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimitreee/videoplayer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimitreee/videoplayer/issues"
+  },
+  "homepage": "https://github.com/Dimitreee/videoplayer#readme"
+}
